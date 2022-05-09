@@ -36,3 +36,10 @@
 :satellite: **Как со мной связаться**
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pnrf_tg)
+
+### Статистика
+<img src="https://github-readme-stats.vercel.app/api?username=pnrf&show_icons=true" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnrf&layout=compact" height="140px"/>
+
+---
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pnrf.pnrf)

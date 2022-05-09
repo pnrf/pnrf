@@ -1,6 +1,6 @@
 ![Header](https://github.com/pnrf/pnrf/blob/main/assets/bgr-image-005.png)
 
-### Всем привет!
+## Всем привет!
 
 *Меня зовут Юра. Я начинающий веб-разработчик.*
 
@@ -16,6 +16,9 @@
 
 * Главное, чему нас обучают в Яндекс.Практикуме – это умение решать проблемы самостоятельно. Для этого копаюсь в официальной документации, пользуюсь различными интернет-ресурсами: [MDN](https://developer.mozilla.org/ru/docs/Learn), [StackOverflow](https://stackoverflow.com), [MS Build](https://docs.microsoft.com/ru-ru/contribute/markdown-reference), [Хабр](https://habr.com/ru/all/), [Doka](https://doka.guide/?ysclid=l2yjdcl4t1), Youtube и пр. Большое для меня подспорье - это курсы по верстке и JavaScript на [Udemy](https://www.udemy.com).
 
+**Мои навыки**
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html&logoColor=orange)
+
 **Мои ожидания**
 
 Ищу работу в продуктовой компании или стартапе, чтобы начать свой профессиональный путь в IT.
@@ -27,4 +30,4 @@
 * Понимаю, что учеба и работа - это разные вещи; что придется преодолеть еще уйму препятствий, чтобы стать квалифицированным специалистом. Убедился в этом на своем опыте: ренее 19 лет отработал юристом в торгово-производственных и консалтинговых компаниях. 
 
 Мои контакты:
-![Flutter](https://img.shields.io/badge/<LABEL>-<MESSAGE>-green?style=flat-square&logo=appveyor)
+

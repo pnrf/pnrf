@@ -25,21 +25,14 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-:volcano: **Чего опасаюсь**
-
-Опасаюсь подвести людей: не справиться с поставленной задачей или не уложиться в срок. Не питаю иллюзий в отношении своих способностей. Обучение программированию мне дается с трудом. Но, упорно продвигаюсь к намеченной цели. Так сказать, маленькими шажками к светлому будущему.
-
-Понимаю, что учеба и работа - это разные вещи. Морально готовлюсь к тому, что придется преодолеть еще уйму препятствий, чтобы стать квалифицированным IT-специалистом. Был аналогичный опыт в юриспрудеции: 19 лет отработал юристом в торгово-производственных и консалтинговых компаниях. Если вам вдруг понадобятся и эти мои навыки, буду рад помочь.
 
 :satellite: **Как со мной связаться**
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pnrf_tg)

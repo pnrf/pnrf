@@ -5,13 +5,38 @@
 *Меня зовут Юра. Я начинающий веб-разработчик.*  
 *Вот несколько слов о том, кто я такой и чем занимаюсь:*
 
-:dart: **К чему стремлюсь**
+<details>
+<summary>Моя история</summary>
+
+19 лет после окончания института работал юристом в торгово-производственных и консалтинговых компаниях. Из них последние 6 лет занимался частной юридической практикой: помогал людям, преодолевал административные барьеры, защищал интересы бизнеса и права граждан в судах и госорганах, участвовал в построении бизнес-процессов и оформлении сделок, договаривался.
+
+Пандемия 2020 года крайне негативно отразилась на моих клиентах: многие были вынуждены значительно сократить свои расходы либо полностью выйти из бизнеса. Это заставило меня задуматься о своем будущем, позволило расширить горизонт моего восприятия и открыть для себя новые возможности. Душа просила чего-то творческого, волшебного.
+
+В результате я принял решение сменить профессию и примкнуть к IT-сообществу.
+
+Почему именно IT?
+
+Оно сейчас на хайпе, государство его активно поддерживает, условия труда близки к идеальным. Кроме того у меня имеется небольшой опыт работы с IT-специалистами:
+
+* в 2002 г., учась в институте, мои сокурсники организовали веб-студию (5 чел.). Сайты верстали таблицами в Dreamweaver, фото и коллажи - в Photoshop, интерактивные элементы - в Macromedia Flash. Меня пригласили в качестве менеджера по работе с клиентами. Вместе с тем я активно участвовал в процессе разработки и даже освоил несколько программ.
+
+* в 2011-2014 гг. мне довелось участвовать в проекте по созданию интернет-магазина одежды (https://glance.ru) и нескольких сайтов на стороне заказчика. Моей задачей было полное юридическое сопровождение проекта, включая оформление документов с разработчиками и урегулирование споров. Как оказалось, интернет-магазин - это не только UI/UX дизайн и программно-аппаратный комплекс. Также это система взаимосвязанных бизнес-процессов, включая производственную составляющую, складскую и транспортную логистику, маркетинг, продажи, взаиморасчеты и обработку пользовательских данных. Работали командой. Приходилось вникать во все тонкости, ежедневно общаться со многими людьми.
+
+* в феврале - марте 2021 г. поработал в IT-компании (резидент Сколково). Эта компания выигрывает тендеры на разработку и модификацию программного обеспечения, а для их реализации нанимает подрядчиков (аутстаффинг): сторонние IT-компании и частных специалистов. Передо мной поставили задачу: за 1,5 месяца предложить рекомендации по оптимизации работы договорного отдела и разработать прототип учетной системы на базе Goolge Apps, что я и сделал. Но, главное, здесь я оказался среди айтишников, окунулся в их среду. Мне довелось много общаться с разработчиками, научиться понимать их ожидания и опасения. Я узнал их систему оплаты и оценки труда, увидел процесс реализации fintech-проектов в действии (конечно, без погружения в код).
+
+К вопросу выбора будущей профессии подошел весьма тщательно: год шерстил интернет, включая прогнозы аналитических и рекрутинговых агентств, общался со своими знакомыми, прошел несколько тестов по профориентации и т.п.
+
+В результате 25 ноября 2021 г. приступил к обучению на курсе “веб-разработчик” в Яндекс.Практикуме, где продолжаю постигать азы новой профессии.
+
+</details>
+
+:dart: **Цели**
 
 Стремлюсь стать Frontend-разработчиком и частью команды людей, объединенных целью — создать полезный информационный продукт, онлайн-сервис или реализовать новую технологию. Хочу помогать людям и по возможности раскрыть свой творческий потенциал. 
 
 Мне нравится, когда цифровой продукт служит прикладным целям: позволяет упорядочить бизнес-процессы, расширить профессиональные или личностные возможности человека, качественно повысить жизненные условия или смягчить негативные последствия, т.е. сделать доступным то, что ранее казалось недостижимым.
 
-:zap: **Что для этого делаю**
+:zap: **Действия**
 
 * С ноября 2021 г. учусь в Яндекс.Практикуме на [веб-разработчика](https://practicum.yandex.ru/web/). Половина учебного пути пройдена: успешно освоил основы HTML, CSS, JavaScript. Все учебные работы выполнены под чутким контролем код-ревьюеров. В ближайшее время приступаю к изучению React, а после этого – к backend.
 
@@ -19,25 +44,30 @@
 
 * Стараюсь регулярно практиковаться в верстке и программировании. В свободное от учебы время верстаю собственный сайт-портфолио. Ссылку выложу по готовности.
 
-* Ищу работу в продуктовой компании или стартапе, чтобы начать свой профессиональный путь в IT, закрепить полученные знания на практике и улучшить свои навыки.
+* Собираюсь искать работу в продуктовой компании или стартапе, чтобы начать свой профессиональный путь в IT, закрепить полученные знания на практике и улучшить свои навыки.
 
-:computer: **Чему успел обучиться**
+:computer: **Навыки**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=4E4E4E)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=4E4E4E)
+  
+![Webpack Badge](https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&labelColor=8DD6F9&color=4E4E4E)
+![NPM Badge](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=4E4E4E)
+![Git Badge](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&labelColor=F05032&color=4E4E4E)
+![Github Badge](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&labelColor=181717&color=4E4E4E)
+  
+![Figma Badge](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E)
+![Photoshop Badge](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&labelColor=31A8FF&color=4E4E4E)  
+  
+---
+  
+:satellite: **Контакты**
 
-
-:satellite: **Как со мной связаться**
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pnrf_tg)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=white)](https://t.me/pnrf_tg)
 
 ---
 
 ### Статистика
 <img src="https://github-readme-stats.vercel.app/api?username=pnrf&show_icons=true" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnrf&layout=compact" height="140px"/>
+

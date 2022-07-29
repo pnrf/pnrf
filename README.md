@@ -7,7 +7,7 @@
 
 :moyai: **Мой путь**
   
-20 лет отработал юристом в торгово-производственных и консалтинговых компаниях. С ноября 2021 г. изучаю веб-разработку в Яндекс.Практикуме. В последующие годы своей жизни планирую посвять себя IT.
+20 лет отработал юристом в торгово-производственных и консалтинговых компаниях. С 25 ноября 2021 г. изучаю веб-разработку в Яндекс.Практикуме. В последующие годы планирую посвять себя IT.
 
 :dart: **Цель**
 
@@ -19,7 +19,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E)
 ![CSS3](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=4E4E4E)
-![SASS](https://img.shields.io/badge/SASS-informational?style=flat&logo=SASS&logoColor=white&labelColor=white&color=4E4E4E)
+![SASS](https://img.shields.io/badge/Sass-informational?style=flat&logo=SASS&logoColor=white&labelColor=FF69B4&color=4E4E4E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=4E4E4E)
 ![React](https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=white&labelColor=61dafb&color=4e4e4e)
   

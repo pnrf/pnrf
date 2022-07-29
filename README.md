@@ -22,14 +22,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=4E4E4E)
 ![React](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&labelColor=61dafb&color=4e4e4e)
   
-![Webpack](https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&labelColor=8DD6F9&color=4E4E4E)
 ![NPM](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=4E4E4E)
+![Webpack](https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&labelColor=8DD6F9&color=4E4E4E)
 ![NodeJS](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&labelColor=6DA55F&color=4E4E4E)
-![Express.js](https://img.shields.io/badge/Express.js-informational?style=flat&logo=Express.js&logoColor=white&labelColor=404D59&color=4E4E4E)
+![Express.js](https://img.shields.io/badge/Express.js-informational?style=flat&logo=Express&logoColor=white&labelColor=404D59&color=4E4E4E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&labelColor=4EA94B&color=4E4E4E)
+  
 ![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&labelColor=F05032&color=4E4E4E)
 ![Github](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&labelColor=181717&color=4E4E4E)
-  
 ![Figma Badge](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E)
 ![Photoshop Badge](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&labelColor=31A8FF&color=4E4E4E)  
 

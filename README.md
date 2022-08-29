@@ -7,13 +7,13 @@
 
 :moyai: **Мой путь**
   
-20 лет отработал юристом в торгово-производственных и консалтинговых компаниях. С 25 ноября 2021 г. изучаю веб-разработку в Яндекс.Практикуме. В последующие годы планирую посвять себя IT.
+20 лет отработал юристом в торгово-производственных и консалтинговых компаниях. Чего хотел, добился. В последующие годы планирую посвятить себя IT. В октябре завершается мое обучение на курсе "Веб-разработчик" в Яндекс.Практикуме, поэтому приступил к активному поиску работы.
 
 :dart: **Цель**
 
-Стремлюсь стать Frontend-разработчиком и частью команды людей, объединенных целью — создавать качественные онлайн-сервисы и веб-приложения, развивать новые технологии. Хочу помогать людям и по возможности раскрыть свой творческий потенциал. 
+Стремлюсь стать Frontend-разработчиком и частью команды людей, объединенных целью — создавать удобные онлайн-сервисы и веб-приложения. Хочу совместить свой творческий потенциал и навыки работы с информацией с умением создавать качественные цифровые продукты.
 
-Мне нравится, когда цифровые продукты служат прикладным целям: позволяют упорядочить бизнес-процессы, расширить возможности человека, качественно повысить жизненные условия или смягчить негативные последствия. Когда они делают доступным то, что ранее казалось недостижимым.
+Мне нравится, когда цифровые продукты служат прикладным целям: позволяют упорядочить бизнес-процессы, расширить возможности человека, повысить жизненные условия или смягчить негативные последствия. Когда они делают доступным то, что ранее казалось недостижимым, и экономят время.
 
 :computer: **Стек технологий**
 
@@ -22,11 +22,13 @@
 ![SASS](https://img.shields.io/badge/Sass-informational?style=flat&logo=SASS&logoColor=white&labelColor=FF69B4&color=4E4E4E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=4E4E4E)
 ![React](https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=white&labelColor=61dafb&color=4e4e4e)
+![Webpack](https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&labelColor=8DD6F9&color=4E4E4E)
   
 ![NodeJS](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&labelColor=6DA55F&color=4E4E4E)
-![Webpack](https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&labelColor=8DD6F9&color=4E4E4E)
 ![Express.js](https://img.shields.io/badge/Express.js-informational?style=flat&logo=Express&logoColor=white&labelColor=404D59&color=4E4E4E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&labelColor=4EA94B&color=4E4E4E)
+![nginx](https://img.shields.io/badge/nginx-informational?style=flat&logo=nginx&logoColor=white&labelColor=009639&color=4E4E4E)
+![pm2](https://img.shields.io/badge/pm2-informational?style=flat&logo=pm2&logoColor=white&labelColor=2B037A&color=4E4E4E)
   
 ![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&labelColor=F05032&color=4E4E4E)
 ![Github](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&labelColor=181717&color=4E4E4E)

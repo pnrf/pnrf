@@ -15,7 +15,7 @@
 
 :computer: **Стек технологий**
 
-![https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E](https://html.spec.whatwg.org/multipage/)
+![HTML](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E)
 ![CSS3](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=4E4E4E)
 ![SASS](https://img.shields.io/badge/Sass-informational?style=flat&logo=SASS&logoColor=white&labelColor=FF69B4&color=4E4E4E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=4E4E4E)

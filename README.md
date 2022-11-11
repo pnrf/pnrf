@@ -11,7 +11,7 @@
 
 :point_right: Подробности смотрите в моем [блоге](https://pnrf.github.io/about/).
   
-:computer: **Стек технологий**
+:computer: Изучаю и применяю на практике:
 
 <p>
     <a href="https://html.spec.whatwg.org/multipage/" >
@@ -68,11 +68,10 @@
     </a>
 </p>
   
-:chart_with_upwards_trend: **Статистика**  
-
+<!-- :chart_with_upwards_trend: **Статистика**   -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=pnrf&show_icons=true" height="140px"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnrf&layout=compact" height="140px"/>
 
-:globe_with_meridians: **Контакты**
+:globe_with_meridians: Для связи:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge)](https://t.me/pnrf_tg)

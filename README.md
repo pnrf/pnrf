@@ -9,9 +9,9 @@
 
 :dart: `Стремлюсь стать` частью команды людей, объединенных целью создавать надежные онлайн-сервисы и веб-приложения. `В ближайшие 3-5 лет` хочу дорасти до уровня “middle+” как фронтенд-разработчик.
 
-*Подробнее обо мне смотрите в [блоге](https://pnrf.github.io/about/)*   :point_left:
+Подробнее обо мне [смотрите в блоге](https://pnrf.github.io/about/) :point_left:
   
-:computer: Изучаю и `применяю на практике`:
+:computer: Изучаю и применяю на практике:
 
 <p>
     <a href="https://html.spec.whatwg.org/multipage/" >
@@ -72,6 +72,6 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=pnrf&show_icons=true" height="140px"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnrf&layout=compact" height="140px"/>
 
-:globe_with_meridians: Доступен онлайн для всех регионов мира:
+:globe_with_meridians: Доступен онлайн для всех регионов России:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge)](https://t.me/pnrf_tg)

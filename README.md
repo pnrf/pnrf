@@ -73,4 +73,4 @@
 :globe_with_meridians: Я на связи. Доступен онлайн для всех регионов России:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge)](https://t.me/pnrf_tg)
-[![Email](https://img.shields.io/badge/eMail-#005FF9?style=for-the-badge)](mailto:pankratov.web@mail.ru)
+[![Email](https://img.shields.io/badge/eMail-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:pankratov.web@mail.ru)

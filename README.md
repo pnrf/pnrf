@@ -73,4 +73,4 @@
 :globe_with_meridians: Доступен онлайн для всех регионов России:
 
 [![Telegram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/pnrf_tg)
-[![Gmail](https://img.shields.io/badge/Gmail-981E32?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pankratov.web@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-CC0000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pankratov.web@gmail.com)

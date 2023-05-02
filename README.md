@@ -5,13 +5,16 @@
 *Меня зовут Юра. Я веб-разработчик.*  
 *Вот несколько слов обо мне:*  
 
-:moyai: В декабре 2022 г. завершил обучение на курсе ["Веб-разработчик"](https://practicum.yandex.ru/web/) в Яндекс.Практикуме. В настоящий момент продолжаю осваивать веб-технологии, нарабатываю себе портфолио на [фрилансе](https://freelance.habr.com/freelancers/pnrf), ищу [работу](https://career.habr.com/pnrf).
-
-:dart: Стремлюсь стать квалифицированным фронтенд-разработчиком и частью команды людей, объединенных целью создавать надежные онлайн-сервисы и веб-приложения. В ближайшие 3-5 лет хочу дорасти до уровня “middle+”.
-
-Подробнее о моем профессиональном пути и планах на будущее [смотрите в блоге](https://pnrf.github.io/about/) :point_left: :fire:
+:moyai: **Мой путь**  
   
-:sunglasses: Изучаю и применяю на практике:
+В декабре 2022 г. завершил обучение на курсе ["Веб-разработчик"](https://practicum.yandex.ru/web/) в Яндекс.Практикуме. В настоящий момент продолжаю осваивать веб-технологии, нарабатываю себе портфолио на [фрилансе](https://freelance.habr.com/freelancers/pnrf), активно ищу [работу](https://career.habr.com/pnrf).
+    
+:dart: **Цель**  
+  
+Стремлюсь стать крутым фронтенд-разработчиком и частью команды людей, объединенных целью создавать надежные онлайн-сервисы и веб-приложения. В ближайшие 3-5 лет хочу дорасти до уровня “middle+”.
+  
+:computer: **Стек технологий**  
+  
 
 <p>
     <a href="https://html.spec.whatwg.org/multipage/" >
@@ -70,7 +73,8 @@
   
 
 
-:globe_with_meridians: Доступен онлайн для всех регионов России:
+:globe_with_meridians: **Контакты**  
+  
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pnrf_tg)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/1058075588700672041)

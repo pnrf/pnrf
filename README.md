@@ -1,5 +1,3 @@
-![Header](https://github.com/pnrf/pnrf/blob/main/assets/bgr-image-005.png)
-
 ## Всем привет!
 
 *Меня зовут Юрий. Я технический писатель.*  

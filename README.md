@@ -11,6 +11,8 @@
 
 До этого 20 лет проработал юристом по сделкам и бизнес-процессам. Составлял договорную и организационно-распорядительную документацию. Защищал интересы бизнеса в судах и госорганах. Участвовал в разработке законопроектов в Сколково.
 
+Подробности см. на моем сайте 👉 [myrepo.ru](https://www.myrepo.ru)
+
 :computer: **Стек технологий**  
 
 <!-- источник лого: https://simpleicons.org -->
@@ -90,5 +92,4 @@
 :globe_with_meridians: **Контакты**  
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pnrf_tg)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/1058075588700672041)
-[![Gmail](https://img.shields.io/badge/Gmail-CC0000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pankratov.web@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-CC0000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pankratov.web@mail.ru)

@@ -92,7 +92,7 @@
 :globe_with_meridians: **Контакты**  
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pnrf_tg)
-[![Email](https://img.shields.io/badge/Email-#005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:pankratov.web@mail.ru)
+[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:pankratov.web@mail.ru)
 
 :bar_chart: **Статистика**  
 

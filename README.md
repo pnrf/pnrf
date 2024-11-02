@@ -11,7 +11,7 @@
 
 До этого 20 лет отработал юристом по сделкам и бизнес-процессам. Составлял договорную и организационно-распорядительную документацию. Консультировал по правовым вопросам.
 
-Открыт к предложениям о работе. Мое портфолио доступно на сайте 👉 [myrepo.ru ↗](https://www.myrepo.ru/portfolio)
+Подробности смотрите на моем сайте 👉 [myrepo.ru ↗](https://www.myrepo.ru)
 
 :computer: **Стек технологий**  
 
@@ -92,7 +92,7 @@
 :globe_with_meridians: **Контакты**  
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pnrf_tg)
-[![Gmail](https://img.shields.io/badge/Gmail-CC0000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pankratov.web@mail.ru)
+[![Email](https://img.shields.io/badge/Email-#005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:pankratov.web@mail.ru)
 
 :bar_chart: **Статистика**  
 

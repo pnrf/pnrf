@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Nextra-informational?style=flat&logo=nextra&logoColor=white&labelColor=000&color=4e4e4e" alt="Nextra" />
   </a>
 </p>
-<p>
+<!-- <p>
   <a href="https://nodejs.org/ru/" >
     <img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&labelColor=6DA55F&color=4E4E4E" alt="Node.js" />
   </a>
@@ -54,7 +54,7 @@
   <a href="https://babeljs.io" >
     <img src="https://img.shields.io/badge/Babel-informational?style=flat&logo=babel&logoColor=white&labelColor=F9DC3E&color=4E4E4E" alt="Babel" />
   </a>
-</p>
+</p> -->
 <p>
   <a href="https://git-scm.com/doc" >
     <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&labelColor=F05032&color=4E4E4E" alt="Git is a free and open source distributed version control system." />
@@ -77,9 +77,9 @@
 	<a href="https://tilda.cc/ru/" >
     <img src="https://img.shields.io/badge/Tilda-informational?style=flat&logo=tildapublishing&logoColor=white&labelColor=FFA282&color=4e4e4e" alt="Tilda" />
   </a>
-	  <a href="https://storybook.js.org" >
+	<!-- <a href="https://storybook.js.org" >
     <img src="https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&labelColor=FF4785&color=4E4E4E" alt="Storybook is a frontend workshop for building UI components and pages in isolation." />
-  </a>
+  </a> -->
 	<a href="https://workspace.google.com/intl/ru/" >
     <img src="https://img.shields.io/badge/GoogleApps-informational?style=flat&logo=google&logoColor=white&labelColor=4285F4&color=4e4e4e" alt="Google Apps" />
   </a>

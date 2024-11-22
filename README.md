@@ -77,11 +77,14 @@
 	<a href="https://tilda.cc/ru/" >
     <img src="https://img.shields.io/badge/Tilda-informational?style=flat&logo=tildapublishing&logoColor=white&labelColor=FFA282&color=4e4e4e" alt="Tilda" />
   </a>
-	<!-- <a href="https://storybook.js.org" >
+	<a href="https://storybook.js.org" >
     <img src="https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&labelColor=FF4785&color=4E4E4E" alt="Storybook is a frontend workshop for building UI components and pages in isolation." />
-  </a> -->
+  </a>
 	<a href="https://workspace.google.com/intl/ru/" >
     <img src="https://img.shields.io/badge/GoogleApps-informational?style=flat&logo=google&logoColor=white&labelColor=4285F4&color=4e4e4e" alt="Google Apps" />
+  </a>
+	<a href="https://obsidian.md" >
+    <img src="https://img.shields.io/badge/Obsidian-informational?style=flat&logo=obsidian&logoColor=white&labelColor=7C3AED&color=4e4e4e" alt="Obsidian" />
   </a>
 </p>
 

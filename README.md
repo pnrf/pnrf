@@ -12,7 +12,7 @@
 :computer: **Стек технологий**  
 
 <!-- источник лого: https://simpleicons.org -->
-<p style={{display: 'flex', flex-wrap: 'wrap', gap: '10px', margin: '20px 0'}}>
+<p>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
     <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E" alt="HTML Living Standard" />
   </a>

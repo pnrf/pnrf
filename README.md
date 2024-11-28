@@ -12,7 +12,7 @@
 :computer: **Стек технологий**  
 
 <!-- источник лого: https://simpleicons.org -->
-<p>
+<>
   <a href="https://html.spec.whatwg.org/multipage/" >
     <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E" alt="HTML Living Standard" />
   </a>
@@ -46,7 +46,6 @@
 		<a href="https://storybook.js.org" >
     <img src="https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&labelColor=FF4785&color=4E4E4E" alt="Storybook is a frontend workshop for building UI components and pages in isolation." />
   </a>
-</p>
 <!-- <p>
   <a href="https://nodejs.org/ru/" >
     <img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&labelColor=6DA55F&color=4E4E4E" alt="Node.js" />
@@ -70,7 +69,6 @@
     <img src="https://img.shields.io/badge/Babel-informational?style=flat&logo=babel&logoColor=white&labelColor=F9DC3E&color=4E4E4E" alt="Babel" />
   </a>
 </p> -->
-<p>
   <a href="https://git-scm.com/doc" >
     <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&labelColor=F05032&color=4E4E4E" alt="Git is a free and open source distributed version control system." />
   </a>

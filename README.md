@@ -19,9 +19,18 @@
   <a href="https://www.w3.org/Style/CSS/Overview.ru.html" >
     <img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=4E4E4E" alt="Web Style Sheets home page" />
   </a>
+	<a href="https://sass-lang.com" target="_blank">
+		<img src="https://img.shields.io/badge/SCSS-informational?style=flat&logo=sass&logoColor=white&labelColor=CC6699&color=4E4E4E" alt="SCSS" />
+	</a>
+	<a href="https://tailwindcss.com" target="_blank">
+		<img src="https://img.shields.io/badge/Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&labelColor=06B6D4&color=4E4E4E" alt="Tailwind" />
+	</a>
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" >
     <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=4E4E4E" alt="ECMAScript 2022 language specification" />
   </a>
+	<a href="https://www.typescriptlang.org/docs/" target="_blank">
+		<img src="https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&labelColor=3178C6&color=4E4E4E" alt="Typescript" />
+	</a>
   <a href="https://ru.react.js.org/docs/getting-started.html" >
     <img src="https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&labelColor=61dafb&color=4e4e4e" alt="React. A JavaScript library for building user interfaces" />
   </a>
@@ -30,6 +39,12 @@
   </a>
 		<a href="https://nextra.site" >
     <img src="https://img.shields.io/badge/Nextra-informational?style=flat&logo=nextra&logoColor=white&labelColor=000&color=4e4e4e" alt="Nextra" />
+  </a>
+		<a href="https://tilda.cc/ru/" >
+    <img src="https://img.shields.io/badge/Tilda-informational?style=flat&logo=tildapublishing&logoColor=white&labelColor=FFA282&color=4e4e4e" alt="Tilda" />
+  </a>
+		<a href="https://storybook.js.org" >
+    <img src="https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&labelColor=FF4785&color=4E4E4E" alt="Storybook is a frontend workshop for building UI components and pages in isolation." />
   </a>
 </p>
 <!-- <p>
@@ -73,12 +88,6 @@
   </a>
 	<a href="https://www.drawio.com" >
     <img src="https://img.shields.io/badge/Draw.io-informational?style=flat&logo=diagramsdotnet&logoColor=white&labelColor=F08705&color=4e4e4e" alt="Draw.io" />
-  </a>
-	<a href="https://tilda.cc/ru/" >
-    <img src="https://img.shields.io/badge/Tilda-informational?style=flat&logo=tildapublishing&logoColor=white&labelColor=FFA282&color=4e4e4e" alt="Tilda" />
-  </a>
-	<a href="https://storybook.js.org" >
-    <img src="https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&labelColor=FF4785&color=4E4E4E" alt="Storybook is a frontend workshop for building UI components and pages in isolation." />
   </a>
 	<a href="https://workspace.google.com/intl/ru/" >
     <img src="https://img.shields.io/badge/GoogleApps-informational?style=flat&logo=google&logoColor=white&labelColor=4285F4&color=4e4e4e" alt="Google Apps" />

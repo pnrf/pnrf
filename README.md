@@ -7,32 +7,32 @@
 
 Работаю в ИТ с 2023 года. Разрабатываю техническую документацию по программным продуктам, пишу тексты для интерфейсов и создаю контент для корпоративных баз знаний. Изучаю ГОСТ 19 и 34 серий. Общаюсь с профессиональным сообществом.
 
-Подробности 👀 на сайте 👉 [myrepo.ru ↗](https://www.myrepo.ru)
+Подробности на сайте 👉 [myrepo.ru ↗](https://www.myrepo.ru)
 
 :computer: **Стек технологий**  
 
 <!-- источник лого: https://simpleicons.org -->
 <p>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E" alt="HTML Living Standard" />
+    <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E" alt="HTML" />
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.ru.html" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=4E4E4E" alt="Web Style Sheets home page" />
+    <img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=4E4E4E" alt="CSS" />
   </a>
-	<a href="https://sass-lang.com" target="_blank">
+	<!-- <a href="https://sass-lang.com" target="_blank">
 		<img src="https://img.shields.io/badge/SCSS-informational?style=flat&logo=sass&logoColor=white&labelColor=CC6699&color=4E4E4E" alt="SCSS" />
 	</a>
 	<a href="https://tailwindcss.com" target="_blank">
 		<img src="https://img.shields.io/badge/Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&labelColor=06B6D4&color=4E4E4E" alt="Tailwind" />
-	</a>
+	</a> -->
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=4E4E4E" alt="ECMAScript 2022 language specification" />
+    <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=4E4E4E" alt="JavaScript" />
   </a>
-	<a href="https://www.typescriptlang.org/docs/" target="_blank">
+	<!-- <a href="https://www.typescriptlang.org/docs/" target="_blank">
 		<img src="https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&labelColor=3178C6&color=4E4E4E" alt="Typescript" />
-	</a>
+	</a> -->
   <a href="https://ru.react.js.org/docs/getting-started.html" target="_blank">
-    <img src="https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&labelColor=61dafb&color=4e4e4e" alt="React. A JavaScript library for building user interfaces" />
+    <img src="https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&labelColor=61dafb&color=4e4e4e" alt="React.js" />
   </a>
 	<a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&labelColor=000&color=4e4e4e" alt="Next.js" />
@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Tilda-informational?style=flat&logo=tildapublishing&logoColor=white&labelColor=FFA282&color=4e4e4e" alt="Tilda" />
   </a>
 		<a href="https://storybook.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&labelColor=FF4785&color=4E4E4E" alt="Storybook is a frontend workshop for building UI components and pages in isolation." />
+    <img src="https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&labelColor=FF4785&color=4E4E4E" alt="Storybook" />
   </a>
 <!-- <p>
   <a href="https://nodejs.org/ru/" target="_blank">
@@ -70,16 +70,16 @@
   </a>
 </p> -->
   <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&labelColor=F05032&color=4E4E4E" alt="Git is a free and open source distributed version control system." />
+    <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&labelColor=F05032&color=4E4E4E" alt="Git" />
   </a>
   <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&labelColor=181717&color=4E4E4E" alt="Github home page" />
+    <img src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&labelColor=181717&color=4E4E4E" alt="Github" />
   </a>
 	<a href="https://www.markdownguide.org" target="_blank">
     <img src="https://img.shields.io/badge/Markdown-informational?style=flat&logo=MarkDown&logoColor=white&labelColor=000000&color=4E4E4E" alt="Markdown" />
   </a>
   <a href="https://www.figma.com" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E" alt="Figma home page" />
+    <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E" alt="Figma" />
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&labelColor=31A8FF&color=4E4E4E" alt="Photoshop" />

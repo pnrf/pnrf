@@ -5,9 +5,9 @@
 
 :moyai: **Чем занимаюсь**  
 
-Работаю в ИТ с 2023 года. Разрабатываю техническую и юридическую документацию по программным продуктам, создаю тексты для интерфейсов и контент для корпоративных баз знаний. Изучаю ГОСТ 2, 19, 34 и 59 серий. Общаюсь с профессиональным сообществом.
+Работаю в ИТ с 2023 года. Разрабатываю техническую и юридическую документацию по программным продуктам, создаю UI-тексты и контент для корпоративных баз знаний. Изучаю ГОСТ 19 и 34 серий. Общаюсь с профессиональным сообществом.
 
-В 2022 г. прошел обучение в Яндекс Практикуме на курсе ["Веб-разработчик" ↗](https://practicum.yandex.ru/web/). До этого 20 лет отработал юристом в торгово-производственных и консалтинговых компаниях.
+В 2022 г. прошел обучение в Яндекс Практикуме на курсе "Веб-разработчик". До этого 20 лет отработал юристом в торговых, производственных и консалтинговых компаниях.
 
 Подробности на сайте 👉 [myrepo.ru ↗](https://www.myrepo.ru)
 
@@ -45,7 +45,7 @@
   </a>
 </p>
 
-Веб-разработка
+Веб-разработка/Фронтенд
 <p>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
     <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E" alt="HTML" />
@@ -56,8 +56,8 @@
 	<a href="https://sass-lang.com" target="_blank">
 		<img src="https://img.shields.io/badge/SCSS-informational?style=flat&logo=sass&logoColor=white&labelColor=CC6699&color=4E4E4E" alt="SCSS" />
 	</a>
-	<a href="https://tailwindcss.com" target="_blank">
-		<img src="https://img.shields.io/badge/Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&labelColor=06B6D4&color=4E4E4E" alt="Tailwind" />
+	<!-- <a href="https://tailwindcss.com" target="_blank">
+		<img src="https://img.shields.io/badge/Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&labelColor=06B6D4&color=4E4E4E" alt="Tailwind" /> -->
 	</a>
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=4E4E4E" alt="JavaScript" />
@@ -77,6 +77,10 @@
 		<a href="https://tilda.cc/ru/" target="_blank">
     <img src="https://img.shields.io/badge/Tilda-informational?style=flat&logo=tildapublishing&logoColor=white&labelColor=FFA282&color=4e4e4e" alt="Tilda" />
   </a>
+</p>
+
+Веб-разработка/Бэкенд
+<p>
   <a href="https://nodejs.org/ru/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&labelColor=6DA55F&color=4E4E4E" alt="Node.js" />
   </a>

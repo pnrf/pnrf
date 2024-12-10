@@ -14,7 +14,6 @@
 :computer: **Стек технологий**  
 
 <!-- источник лого: https://simpleicons.org -->
-Техписательство
 <p>
 	<a href="https://workspace.google.com/intl/ru/" target="_blank">
     <img src="https://img.shields.io/badge/GoogleApps-informational?style=flat&logo=google&logoColor=white&labelColor=4285F4&color=4e4e4e" alt="Google Apps" />
@@ -44,8 +43,6 @@
     <img src="https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&labelColor=FF4785&color=4E4E4E" alt="Storybook" />
   </a>
 </p>
-
-Веб-разработка/Фронтенд
 <p>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
     <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E" alt="HTML" />
@@ -78,8 +75,6 @@
     <img src="https://img.shields.io/badge/Tilda-informational?style=flat&logo=tildapublishing&logoColor=white&labelColor=FFA282&color=4e4e4e" alt="Tilda" />
   </a>
 </p>
-
-Веб-разработка/Бэкенд
 <p>
   <a href="https://nodejs.org/ru/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&labelColor=6DA55F&color=4E4E4E" alt="Node.js" />
@@ -105,8 +100,6 @@
 </p>
 
 :globe_with_meridians: **Контакты**  
-
-Если есть ко мне вопросы или предложения работы, пожалуйста, пишите. Буду рад пообщаться. Доступен онлайн для всех регионов России.
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pnrf_tg)
 [![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:pankratov.web@mail.ru)

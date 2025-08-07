@@ -66,12 +66,12 @@
 	<a href="https://nextra.site" target="_blank">
     <img src="https://img.shields.io/badge/Nextra-informational?style=flat&logo=nextra&logoColor=white&labelColor=000&color=4e4e4e" alt="Nextra" />
   </a>
-	<a href="https://tilda.cc/ru/" target="_blank">
+	<!-- <a href="https://tilda.cc/ru/" target="_blank">
     <img src="https://img.shields.io/badge/Tilda-informational?style=flat&logo=tildapublishing&logoColor=white&labelColor=FFA282&color=4e4e4e" alt="Tilda" />
   </a>
 		<a href="https://storybook.js.org" target="_blank">
     <img src="https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&labelColor=FF4785&color=4E4E4E" alt="Storybook" />
-  </a>
+  </a> -->
   <!-- <a href="https://nodejs.org/ru/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&labelColor=6DA55F&color=4E4E4E" alt="Node.js" />
   </a>
@@ -94,8 +94,3 @@
     <img src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&labelColor=4EA94B&color=4E4E4E" alt="MongoDB Documentation" />
   </a> -->
 </p>
-
-:mailbox: **Контакты**  
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pnrf_tg)
-[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:pankratov.web@mail.ru)

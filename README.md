@@ -35,16 +35,16 @@
     <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E" alt="Figma" />
   </a>
 	<a href="https://tilda.cc/ru/" target="_blank">
-    <img src="https://img.shields.io/badge/Tilda-publishing?style=flat&logo=tildapublishing&logoColor=white&labelColor=FFA282&color=4E4E4E" alt="Tilda" />
+    <img src="https://img.shields.io/badge/Tilda-informational?style=flat&logo=tildapublishing&logoColor=white&labelColor=FFA282&color=4e4e4e" alt="Tilda" />
   </a>
 	<a href="https://obsidian.md" target="_blank">
     <img src="https://img.shields.io/badge/Obsidian-informational?style=flat&logo=obsidian&logoColor=white&labelColor=7C3AED&color=4e4e4e" alt="Obsidian" />
   </a>
 	<a href="https://docusaurus.io" target="_blank">
-    <img src="https://img.shields.io/badge/docker?style=flat&logo=docker&logoColor=white&labelColor=3ECC5F&color=4e4e4e" alt="Docusaurus" />
+    <img src="https://img.shields.io/badge/docusaurus-informational?style=flat&logo=docusaurus&logoColor=white&labelColor=3ECC5F&color=4e4e4e" alt="Docusaurus" />
   </a>
 	<a href="https://www.sphinx-doc.org/en/master/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/sphinx?style=flat&logo=sphinx&logoColor=white&labelColor=3ECC5F&color=4e4e4e" alt="Sphinx" />
+    <img src="https://img.shields.io/badge/sphinx-informational?style=flat&logo=sphinx&logoColor=white&labelColor=000000&color=4e4e4e" alt="Sphinx" />
   </a>
 </p>
 <p>
@@ -75,10 +75,7 @@
 	<a href="https://nextra.site" target="_blank">
     <img src="https://img.shields.io/badge/Nextra-informational?style=flat&logo=nextra&logoColor=white&labelColor=000&color=4e4e4e" alt="Nextra" />
   </a>
-	<!-- <a href="https://tilda.cc/ru/" target="_blank">
-    <img src="https://img.shields.io/badge/Tilda-informational?style=flat&logo=tildapublishing&logoColor=white&labelColor=FFA282&color=4e4e4e" alt="Tilda" />
-  </a> -->
-		<a href="https://storybook.js.org" target="_blank">
+	<a href="https://storybook.js.org" target="_blank">
     <img src="https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&labelColor=FF4785&color=4E4E4E" alt="Storybook" />
   </a>
   <a href="https://nodejs.org/ru/" target="_blank">

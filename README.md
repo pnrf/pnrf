@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Draw.io-informational?style=flat&logo=diagramsdotnet&logoColor=white&labelColor=F08705&color=4e4e4e" alt="Draw.io" />
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://img.shields.io/badge/googlephotos?style=flat&logo=googlephotos&logoColor=white&labelColor=31A8FF&color=4E4E4E" alt="Photoshop" />
+    <img src="https://img.shields.io/badge/googlephotos-informational?style=flat&logo=googlephotos&logoColor=white&labelColor=31A8FF&color=4E4E4E" alt="Photoshop" />
   </a>
   <a href="https://www.figma.com" target="_blank">
     <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E" alt="Figma" />

@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Draw.io-informational?style=flat&logo=diagramsdotnet&logoColor=white&labelColor=F08705&color=4e4e4e" alt="Draw.io" />
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&labelColor=31A8FF&color=4E4E4E" alt="Photoshop" />
+    <img src="https://img.shields.io/badge/googlephotos?style=flat&logo=googlephotos&logoColor=white&labelColor=31A8FF&color=4E4E4E" alt="Photoshop" />
   </a>
   <a href="https://www.figma.com" target="_blank">
     <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E" alt="Figma" />
@@ -46,6 +46,9 @@
   </a>
 	<a href="https://www.sphinx-doc.org/en/master/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Sphinx-informational?style=flat&logo=sphinx&logoColor=white&labelColor=000000&color=4e4e4e" alt="Sphinx" />
+  </a>
+	<a href="https://storybook.js.org" target="_blank">
+    <img src="https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&labelColor=FF4785&color=4E4E4E" alt="Storybook" />
   </a>
 	<a href="https://www.postman.com" target="_blank">
     <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&labelColor=000000&color=4e4e4e" alt="Postman" />
@@ -80,9 +83,6 @@
   </a>
 	<a href="https://nextra.site" target="_blank">
     <img src="https://img.shields.io/badge/Nextra-informational?style=flat&logo=nextra&logoColor=white&labelColor=000&color=4e4e4e" alt="Nextra" />
-  </a>
-	<a href="https://storybook.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&labelColor=FF4785&color=4E4E4E" alt="Storybook" />
   </a>
   <a href="https://nodejs.org/ru/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&labelColor=6DA55F&color=4E4E4E" alt="Node.js" />

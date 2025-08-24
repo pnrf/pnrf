@@ -12,6 +12,7 @@
 :octocat: **Стек технологий**  
 
 <!-- источник лого: https://simpleicons.org -->
+Работа с документами:
 <p>
 	<a href="https://workspace.google.com/intl/ru/" target="_blank">
     <img src="https://img.shields.io/badge/GoogleApps-informational?style=flat&logo=google&logoColor=white&labelColor=4285F4&color=4e4e4e" alt="Google Apps" />
@@ -41,12 +42,17 @@
     <img src="https://img.shields.io/badge/Obsidian-informational?style=flat&logo=obsidian&logoColor=white&labelColor=7C3AED&color=4e4e4e" alt="Obsidian" />
   </a>
 	<a href="https://docusaurus.io" target="_blank">
-    <img src="https://img.shields.io/badge/docusaurus-informational?style=flat&logo=docusaurus&logoColor=white&labelColor=3ECC5F&color=4e4e4e" alt="Docusaurus" />
+    <img src="https://img.shields.io/badge/Docusaurus-informational?style=flat&logo=docusaurus&logoColor=white&labelColor=3ECC5F&color=4e4e4e" alt="Docusaurus" />
   </a>
 	<a href="https://www.sphinx-doc.org/en/master/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/sphinx-informational?style=flat&logo=sphinx&logoColor=white&labelColor=000000&color=4e4e4e" alt="Sphinx" />
+    <img src="https://img.shields.io/badge/Sphinx-informational?style=flat&logo=sphinx&logoColor=white&labelColor=000000&color=4e4e4e" alt="Sphinx" />
+  </a>
+	<a href="https://www.postman.com" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&labelColor=000000&color=4e4e4e" alt="Postman" />
   </a>
 </p>
+
+Публикация в сети:
 <p>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
     <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E" alt="HTML" />

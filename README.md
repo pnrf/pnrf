@@ -46,6 +46,18 @@
 	<a href="https://www.sphinx-doc.org/en/master/index.html" target="_blank">
     <img src="https://img.shields.io/badge/sphinx?style=flat&logo=sphinx&logoColor=white&labelColor=3ECC5F&color=4e4e4e" alt="Sphinx" />
   </a>
+
+<a href="https://www.sphinx-doc.org/en/master/index.html" target="_blank">
+    <img 
+        src="https://img.shields.io/badge/sphinx?style=flat&logo=sphinx&logoColor=white&labelColor=3ECC5F&color=4e4e4e" 
+        alt="Sphinx" 
+        loading="lazy" 
+        width="150" 
+        height="35"
+    />
+</a>
+
+
 </p>
 <p>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
@@ -75,9 +87,9 @@
 	<a href="https://nextra.site" target="_blank">
     <img src="https://img.shields.io/badge/Nextra-informational?style=flat&logo=nextra&logoColor=white&labelColor=000&color=4e4e4e" alt="Nextra" />
   </a>
-	<a href="https://tilda.cc/ru/" target="_blank">
+	<!-- <a href="https://tilda.cc/ru/" target="_blank">
     <img src="https://img.shields.io/badge/Tilda-informational?style=flat&logo=tildapublishing&logoColor=white&labelColor=FFA282&color=4e4e4e" alt="Tilda" />
-  </a>
+  </a> -->
 		<a href="https://storybook.js.org" target="_blank">
     <img src="https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&labelColor=FF4785&color=4E4E4E" alt="Storybook" />
   </a>

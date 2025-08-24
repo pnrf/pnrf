@@ -41,23 +41,11 @@
     <img src="https://img.shields.io/badge/Obsidian-informational?style=flat&logo=obsidian&logoColor=white&labelColor=7C3AED&color=4e4e4e" alt="Obsidian" />
   </a>
 	<a href="https://docusaurus.io" target="_blank">
-    <img src="https://img.shields.io/badge/docusaurus?style=flat&logo=docusaurus&logoColor=white&labelColor=3ECC5F&color=4e4e4e" alt="Docusaurus" />
+    <img src="https://img.shields.io/badge/docker?style=flat&logo=docker&logoColor=white&labelColor=3ECC5F&color=4e4e4e" alt="Docusaurus" />
   </a>
 	<a href="https://www.sphinx-doc.org/en/master/index.html" target="_blank">
     <img src="https://img.shields.io/badge/sphinx?style=flat&logo=sphinx&logoColor=white&labelColor=3ECC5F&color=4e4e4e" alt="Sphinx" />
   </a>
-
-<a href="https://www.sphinx-doc.org/en/master/index.html" target="_blank">
-    <img 
-        src="https://img.shields.io/badge/sphinx?style=flat&logo=sphinx&logoColor=white&labelColor=3ECC5F&color=4e4e4e" 
-        alt="Sphinx" 
-        loading="lazy" 
-        width="150" 
-        height="35"
-    />
-</a>
-
-
 </p>
 <p>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">

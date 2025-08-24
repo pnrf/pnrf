@@ -34,8 +34,17 @@
   <a href="https://www.figma.com" target="_blank">
     <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E" alt="Figma" />
   </a>
+	<a href="https://tilda.cc/ru/" target="_blank">
+    <img src="https://img.shields.io/badge/Tilda-publishing?style=flat&logo=tildapublishing&logoColor=white&labelColor=FFA282&color=4E4E4E" alt="Tilda" />
+  </a>
 	<a href="https://obsidian.md" target="_blank">
     <img src="https://img.shields.io/badge/Obsidian-informational?style=flat&logo=obsidian&logoColor=white&labelColor=7C3AED&color=4e4e4e" alt="Obsidian" />
+  </a>
+	<a href="https://docusaurus.io" target="_blank">
+    <img src="https://img.shields.io/badge/Docusaurus?style=flat&logo=docusaurus&logoColor=white&labelColor=3ECC5F&color=4e4e4e" alt="Docusaurus" />
+  </a>
+	<a href="https://www.sphinx-doc.org/en/master/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/sphinx?style=flat&logo=sphinx&logoColor=white&labelColor=3ECC5F&color=4e4e4e" alt="Sphinx" />
   </a>
 </p>
 <p>

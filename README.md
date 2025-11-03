@@ -75,6 +75,15 @@
 	<a href="https://www.typescriptlang.org/docs/" target="_blank">
 		<img src="https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&labelColor=3178C6&color=4E4E4E" alt="Typescript" />
 	</a>
+	<a href="https://www.python.org" target="_blank">
+		<img src="https://img.shields.io/badge/python?style=flat&logo=phyton&logoColor=white&labelColor=3776AB&color=4E4E4E" alt="Python" />
+	</a>
+	<a href="https://docs.jupyter.org/en/latest/" target="_blank">
+		<img src="https://img.shields.io/badge/jupyter-informational?style=flat&logo=jupyter&logoColor=white&labelColor=F37626&color=4E4E4E" alt="Jupyter Notebook" />
+	</a>
+
+
+
   <a href="https://ru.react.js.org/docs/getting-started.html" target="_blank">
     <img src="https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&labelColor=61dafb&color=4e4e4e" alt="React.js" />
   </a>
